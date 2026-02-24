@@ -1,0 +1,4 @@
+/home/joseph/Desktop/Lab04/build/CMakeFiles/monitor.dir
+/home/joseph/Desktop/Lab04/build/CMakeFiles/node.dir
+/home/joseph/Desktop/Lab04/build/CMakeFiles/edit_cache.dir
+/home/joseph/Desktop/Lab04/build/CMakeFiles/rebuild_cache.dir
