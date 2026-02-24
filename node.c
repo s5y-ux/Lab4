@@ -1,8 +1,4 @@
-/*
-By: Joseph R. Shumaker
-COMP-362: Section 2
-2/20/2025
-*/
+
 
 #include "message.h"
 
